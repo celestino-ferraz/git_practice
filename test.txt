@@ -1,1 +1,2 @@
 Hello!
+Hey, we fixed the bug!!!
